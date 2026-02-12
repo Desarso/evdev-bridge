@@ -1,0 +1,3 @@
+evdev-bridge-native
+*.o
+*.log
